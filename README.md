@@ -18,7 +18,7 @@ We are taking the following github repository as reference to implement our proj
 Link: https://github.com/fcakyon/pywhisper
 
 # Architecture
-We are planning to use client-server architecture.
+We are planning to use client-server architecture, with a Flask server and front end Web application as the client.
 # Project Plan based on two weeks iteration
 ## Iteration 1
 * Gather requirements for the project.
