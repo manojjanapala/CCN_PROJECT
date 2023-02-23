@@ -22,7 +22,7 @@ We are planning to use client-server architecture, with a Flask server and front
 # Project Plan based on two weeks iteration
 ## Iteration 1
 * Gather requirements for the project.
-* Familiarize with the technologies used, such as WebRTC, NLP.
+* Familiarize with the technologies and the concepts using, such as WebRTC, NLP.
 * Set up the environment required to run the model.
 ## Iteration 2
 * Building the model for converting speech to text.
