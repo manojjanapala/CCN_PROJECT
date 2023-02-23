@@ -21,15 +21,23 @@ Link: https://github.com/fcakyon/pywhisper
 We are planning to use client-server architecture.
 # Project Plan based on two weeks iteration
 ## Iteration 1
-* Familiarize ourself with the Streamlit and WebRTC technologies and identify the necessary components and dependencies for the project.
-* Implement basic functionalities such as audio recording and converting it to the text.
-* Conduct initial tests of the model to ensure that the audio recording and conversion to text are working correctly.
+* Gather requirements for the project.
+* Familiarize with the technologies used, such as WebRTC, NLP.
+* Set up the environment required to run the model.
 ## Iteration 2
-* Design the architecture of the system and create a rough prototype of the user interface.
-* Conduct tests to evaluate the accuracy of the speech recognition algorithms.
-* Make any necessary adjustments to the algorithms based on the results of the tests.
+* Building the model for converting speech to text.
+* Conduct initial testing of the model to evaluate its accuracy and identify areas for improvement.
+* Making necessary adjustments to increase the accuracy of the model.
+* Verifying the entire functionality of the model to ensure it meets the project requirements.
 ## Iteration 3
-* Integrate speech recognition algorithms into the system to transcribe audio into text.
-* Improve the user interface and add additional features if possible.
-
-This is what we have planned for the next 6 weeks, soon we will update future iterations.
+* Set up the Webrtc environment.
+* Create a user interface that is used to interact with the Webrtc.
+* Integrate the server model (NLP engine) with the application via Webrtc locally.
+* Check the entire functionality of the system and if there are any issues debug and eliminate them to ensure smooth functioning of the application.
+## Iteration 4
+* Deploy the project on the cloud provider's platform and initiate system testing.
+* Test the working condition of the system and check for any issues or errors.
+* If issues are found, analyze the root cause and take necessary actions to resolve them.
+## Iteration 5
+* Prepare the documentation for the project.
+* Create the presentation and deliver the final project.
