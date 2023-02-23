@@ -41,5 +41,3 @@ We are planning to use client-server architecture, with a Flask server and front
 ## Iteration 5
 * Prepare the documentation for the project.
 * Create the presentation and deliver the final project.
-
-
