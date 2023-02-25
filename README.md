@@ -22,8 +22,9 @@ We are planning to use client-server architecture, with a Flask server and front
 # Project Plan based on two weeks iteration
 ## Iteration 1
 * Gather requirements for the project.
-* Familiarize with the technologies and the concepts using, such as WebRTC, NLP.
-* Set up the environment required to run the model.
+* Determine the appropriate technologies, packages, programming languages, and deployment procedures that will be utilized in the project, and ensure that all team  members have a clear understanding of their roles and responsibilities.
+* Familiarize with the technologies and the concepts using, to gain a better understanding of their functionalities and potential challenges.
+* Setting up the development environment and installing all necessary software, including any libraries or frameworks required for the project, to ensure smooth implementation and testing.
 ## Iteration 2
 * Building the model for converting speech to text.
 * Conduct initial testing of the model to evaluate its accuracy and identify areas for improvement.
