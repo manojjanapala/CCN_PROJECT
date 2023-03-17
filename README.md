@@ -45,7 +45,7 @@ The packages that we are planning to use to build the machine learning model inc
 
 * wave is used to save the audio file after recording through the microphone. It provides a simple interface for working with wave files, including reading and writing wave files.
 
-### model.py: 
+### recording_audio.py
 
 The current version of our model.py file implements the basic functionality of the model. It takes input from the microphone and saves the audio file to the system, which can then be used as input to the model for converting it into text.
 
